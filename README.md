@@ -22,6 +22,7 @@
 Name: Kashish Sonawane
 Location: Nashik, Maharashtra
 Education: B.E Artificial Intelligence & Data Science
+
 Interests:
   - Artificial Intelligence
   - Machine Learning
@@ -29,6 +30,7 @@ Interests:
   - Prompt Engineering
   - NLP
   - Data Science
+
 Currently Learning:
   - LLM Fine-Tuning
   - LangChain
@@ -47,38 +49,67 @@ Currently Learning:
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-## Languages
+# 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
 
-## AI / ML
+# 🤖 AI / Data Science
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6A0DAD?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-0A66C2?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![GPT API](https://img.shields.io/badge/GPT_API-412991?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-8A2BE2?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-FF1493?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-008080?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF8C00?style=for-the-badge)
 
 ---
 
-## Frameworks & Libraries
+# 📚 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
 
 ---
 
-## Tools
+# 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Apify](https://img.shields.io/badge/Apify-FF6B00?style=for-the-badge)
+![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets)
+
+---
+
+# ⚡ Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-9C27B0?style=for-the-badge)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-FF5722?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-3F51B5?style=for-the-badge)
+![Agile Scrum](https://img.shields.io/badge/Agile/Scrum-009688?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-607D8B?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-795548?style=for-the-badge)
 
 </div>
 
