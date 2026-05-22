@@ -1,141 +1,157 @@
-# 🚀 Kashish Sonawane — AI & Data Science Portfolio
+<div align="center">
 
-Welcome to my portfolio repository!  
-I am **Kashish Sonawane**, an Artificial Intelligence & Data Science undergraduate passionate about building intelligent systems using **Machine Learning, Generative AI, Data Science, and Automation**.
+# 🚀 Hey there, I'm Kashish Sonawane 👋
 
----
+### AI & Data Science Engineer | Generative AI Enthusiast | ML Developer
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Explorer;Prompt+Engineering+Enthusiast;Open+Source+Learner" />
 
-- 🎓 B.E. in Artificial Intelligence & Data Science  
-- 📍 Nashik, Maharashtra, India  
-- 💡 Interested in AI, Generative AI, NLP, Deep Learning, and Intelligent Automation  
-- 🚀 Passionate about solving real-world problems through technology and innovation  
-- 📚 Continuous learner exploring modern AI tools and frameworks
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashish-sonawane-41923a326/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:kashishsonawane725@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Kashish-kms)
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python
-- SQL
-- JavaScript (ES6)
-- Bash
-
-### AI / ML / Data Science
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Natural Language Processing (NLP)
-- Generative AI
-- Prompt Engineering
-- LangChain
-- GPT API
-- Data Visualization
-- EDA & Statistical Analysis
-
-### Libraries & Frameworks
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- BeautifulSoup
-- Selenium
-- Scrapy
-- Requests
-
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Linux / Ubuntu
-- Apify
-- Google Sheets API
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 👨‍💻 About Me
 
-### 🔍 SequenceSense AI — Internal Fraud Detection System
-AI-powered anomaly detection system designed for banking fraud detection.
-
-**Tech Stack:** Python, Machine Learning, Data Analysis
-
-- Built sequence-analysis anomaly detection model
-- Simulated 89% precision on synthetic banking dataset
-- Developed for PSBs Hackathon 2026
-
----
-
-### ⚡ AI-for-Bharat — Renewable Forecast Dashboard
-Interactive dashboard for forecasting Karnataka solar and wind power generation.
-
-**Tech Stack:** Python, Streamlit, Pandas, Data Visualization
-
-- Implemented AI-based electricity forecasting
-- Created uncertainty-band visualizations
-- Developed dynamic filtering and analytics dashboard
+```yaml
+Name: Kashish Sonawane
+Location: Nashik, Maharashtra
+Education: B.E Artificial Intelligence & Data Science
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Prompt Engineering
+  - NLP
+  - Data Science
+Currently Learning:
+  - LLM Fine-Tuning
+  - LangChain
+  - Deep Learning
+  - AI Agents
+```
 
 ---
 
-### 📧 Spam Email Classification
-Machine Learning model for spam email detection using Logistic Regression.
+# 🚀 Currently Working On
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
-
-- Built complete ML workflow
-- Performed preprocessing and classification
-- Evaluated model using confusion matrix & metrics
+🔹 Building AI-powered applications using **LLMs & Generative AI**  
+🔹 Exploring **Prompt Engineering & LangChain**  
+🔹 Participating in **Hackathons & Open Source**  
+🔹 Improving real-world AI deployment skills
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Stack & Tools
 
-### Data Science Intern — SkillCraft Technologies
-_Remote | Jan 2026 – Feb 2026_
+<div align="center">
 
-- Worked on data preprocessing and analysis
-- Gained practical exposure to data-driven problem solving
-
-### Artificial Intelligence Apprenticeship — Acmegade
-_Oct 2024 – Dec 2024_
-
-- Learned ML, NLP, Neural Networks, and Computer Vision
-- Developed CNN model using MNIST dataset
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ---
 
-## 🏆 Achievements
-
-- Participant in:
-  - PSBs Hackathon 2026
-  - iDEA Hackathon 2026
-  - Godavari Hackathon 2024
-  - MVP Ideathon 2023
-
-- Selected for:
-  - Infosys Pragati Path Cohort 5
-  - GirlScript Summer of Code (Campus Ambassador)
+## AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge)
 
 ---
 
-## 📜 Certifications
-
-- Building a Machine Learning Ready Organization
-- Generative AI by LinkedIn
-- Python for Data Science — IBM Cognitive Class
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Kashish Sonawane](https://www.linkedin.com/in/kashish-sonawane-41923a326/)
-- 📧 Email: kashishsonawane725@gmail.com
-- 💻 GitHub: https://github.com/kashish-kms
+## Frameworks & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
 
 ---
 
-## ⭐ Goal
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
-To contribute to innovative AI-driven solutions and continuously improve my skills in Artificial Intelligence, Machine Learning, and Generative AI development.
+</div>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🔍 SequenceSense AI | AI-powered fraud detection system for banking transaction anomalies | Python, ML, Data Science |
+| ⚡ AI-for-Bharat Dashboard | Renewable energy forecasting dashboard with interactive visualizations | Streamlit, Pandas, AI Forecasting |
+| 📧 Spam Email Classifier | ML model for spam email classification using Logistic Regression | Python, Scikit-learn |
+| 🤖 Generative AI Experiments | Prompt engineering & LLM-based AI applications | GPT API, LangChain |
+
+---
+
+# 💼 Experience
+
+| Role | Organization | Timeline |
+|---|---|---|
+| Data Science Intern | SkillCraft Technologies | Jan 2026 – Feb 2026 |
+| AI Apprentice | Acmegade | Oct 2024 – Dec 2024 |
+
+---
+
+# 🏆 Achievements
+
+🏅 PSBs Hackathon 2026  
+🏅 iDEA Hackathon 2026  
+🏅 Godavari Hackathon 2024  
+🏅 Infosys Pragati Path Cohort 5  
+🏅 GirlScript Summer of Code — Campus Ambassador
+
+---
+
+# 📜 Certifications
+
+✔ Building a Machine Learning Ready Organization  
+✔ Generative AI by LinkedIn  
+✔ Python for Data Science — IBM Cognitive Class
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Kashish-kms&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kashish-kms&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish-kms&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashish_Sonawane-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashish-sonawane-41923a326/)
+
+[![Email](https://img.shields.io/badge/Gmail-kashishsonawane725%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kashishsonawane725@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Building intelligent systems that solve real-world problems.” ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+
+</div>
