@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit_Website-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://kashishsonawane1718-spec-github-io.vercel.app/](https://portfolioofme-umber.vercel.app/))
+[![Portfolio](https://portfolioofkashish-git-main-kashishsonawane1718-specs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashish-sonawane-41923a326/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:kashishsonawane725@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Kashish-kms)
